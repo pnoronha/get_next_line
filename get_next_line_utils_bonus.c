@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pnoronha <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: pnoronha <pnoronha@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/04/28 11:53:34 by pnoronha          #+#    #+#             */
-/*   Updated: 2021/04/28 11:53:34 by pnoronha         ###   ########.fr       */
+/*   Created: 2021/06/09 15:22:22 by pnoronha          #+#    #+#             */
+/*   Updated: 2021/06/09 15:22:22 by pnoronha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	ft_strlen(const char *str)
 {

@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: pnoronha <pnoronha@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/04/28 09:58:55 by pnoronha          #+#    #+#             */
-/*   Updated: 2021/06/01 14:13:41 by pnoronha         ###   ########.fr       */
+/*   Created: 2021/06/09 15:22:56 by pnoronha          #+#    #+#             */
+/*   Updated: 2021/06/09 15:26:02 by pnoronha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static void	end_file(char **stack, char **line)
 {
